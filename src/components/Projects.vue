@@ -3,7 +3,7 @@
         <div class="project-card" v-for="(project, index) in  projects " :key="index">
             <!-- Your card content goes here -->
             <div class="info">
-                <h3>{{ project.title }}</h3>
+                <h3 style="color:#ff4a57">{{ project.title }}</h3>
                 <p>{{ project.description }}</p>
             </div>
             <hr>
@@ -35,7 +35,7 @@ export default {
             projects: [
                 { title: 'ISRO Safe Ship Navigation', description: 'Colaborated with VNIT Nagpur for building the backend for the SSN project in python Flask and implemented the A* algorithm.', githubLink: '#', technology: "Flask, Ionic, Celery, Flask-Mail, PostGis, PostgresSQL, Redis, Docker" },
                 { title: 'MISAHUB-Challenge', description: 'Tackled an Image Segmentation challenge of endoscopy images, leveraging models such as U-Net, ResNet50 and YOLOv8 to enhance results.', githubLink: "https://github.com/varunvilva/MISAHUB-Challenge", technology:"OpenCV, Tensorflow, YoloV8, CNNs, Keras Applications" },
-                { title: 'lIME Image processing', description: 'Low Light Image Enhancement (LIME) using Retinex model, histogram equalization and other techniques.', githubLink: 'https://github.com/varunvilva/LIME IVP', technology:"OpenCV, Pillow, Image Processing techniques" },
+                { title: 'lIME Image processing', description: 'Low Light Image Enhancement (LIME) using Retinex model, histogram equalization and other techniques.', githubLink: 'https://github.com/varunvilva/LIME_IVP', technology:"OpenCV, Pillow, Image Processing techniques" },
                 { title: 'Catalogue Digitization', description: "Participated in a winning Hackathon project to digitize local vendors' catalogs, converting audio of different indic languages, image, and text inputs into readable jsons.", githubLink: 'https://github.com/varunvilva/HACbackend', technology:"Flask, Bhashini Translator, Gemini API, NextJs"},
                 { title: 'Towards Explainability of Federated Learning', description: 'A research project under guidence of Dr. Jignesh Bhatt and Dr. Ashish Phophalia on federated learning and understanding its learning abilities with conversational memory elemenents.', githubLink: "#", technology:"Tensorflow, CNNs with residual networks, Threading, Parallel Computing" },
             ]
