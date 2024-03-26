@@ -5,7 +5,7 @@
                 <div class="card">
                     <h2 class="card-title" style="color: #ff4a57;">About me</h2>
                     <p class="card-content">
-                        Hey there! I'm all about machine learning and get a real kick out of diving into math and stats to power up my AI passion. You'll often catch me geeking out over core computer stuff and staying super curious about the latest tech buzz worldwide. Spent a cool six months doing backend development during my internship at ComputeLib, which was a blast. I'm totally pumped about the fast-paced tech scene and always up for tackling new challenges. Bringing together theory and real-world applications? Count me in - I'm all about making a mark in this ever-evolving tech world!
+                        <span style="color:aqua">Hey there!</span> I'm all about machine learning and get a real kick out of diving into math and stats to power up my AI passion. You'll often catch me geeking out over core computer stuff and staying super curious about the latest tech buzz worldwide. Spent a cool six months doing backend development during my internship at ComputeLib, which was a blast. I'm totally pumped about the fast-paced tech scene and always up for tackling new challenges. Bringing together theory and real-world applications? Count me in - I'm all about making a mark in this ever-evolving tech world!
                     </p>
 
                 </div>
@@ -60,7 +60,7 @@ export default {
 .card {
     padding: 20px;
     border-radius: 5px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 

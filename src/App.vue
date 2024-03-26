@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/vue.svg"> -->
     <Navbar />
-    
     <RouterView />
 
   </div>

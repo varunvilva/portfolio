@@ -53,7 +53,7 @@ export default {
             githubLink: 'https://github.com/varunvilva',
             linkedinlink: 'https://www.linkedin.com/in/varunvilva/',
             twitterlink: 'https://twitter.com/Varun_Vilva',
-            discordlnk: 'https://discord.com/users/851812925844094989',
+            discordlink: 'https://discord.com/users/851812925844094989',
         };
     },
 
