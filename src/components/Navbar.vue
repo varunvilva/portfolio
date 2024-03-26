@@ -8,7 +8,7 @@
                 <li><router-link to="/about">About</router-link></li>
                 <li><router-link to="/projects">Projects</router-link></li>
                 <li><router-link to="/contact">Contact</router-link></li>
-                <li><router-link to="/chatUp">ChatBot</router-link></li>
+                <li><router-link to="/experience">Experiences</router-link></li>
                 <li><a href="https://drive.google.com/file/d/1-0ZW0L7R7wCDwawJ9LXmsFjgO4aJu1f4/view?usp=sharing">Resume</a></li>
             </ul>
         </nav>

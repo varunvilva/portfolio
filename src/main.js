@@ -6,12 +6,14 @@ import HomePage from './components/HomePage.vue'
 import About from './components/About.vue'
 import Projects from './components/Projects.vue'
 import Contact from './components/Contact.vue'
+import Experience from './components/Experience.vue'
 
 const routes = [
     { path: '/', component: HomePage },
     { path: '/about', component: About },
     { path: '/projects', component: Projects },
-    { path: '/contact', component: Contact }
+    { path: '/contact', component: Contact },
+    { path: '/experience', component: Experience}
 ];
 
 const router = createRouter({
