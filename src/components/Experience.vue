@@ -37,8 +37,8 @@ export default {
     data() {
         return {
             experiences: [
-                { title: 'Project Collaborator - ISRO Safe Ship Navigation', description: "built the whole backend of the app using Flask in Python. I also worked on important stuff like the A* algorithm. Plus, I used interpolation and cost function tricks to make things run better.", time: "May '23 - Present" },
-                { title: 'Intern - ComputeLib', description: ' Created small, specialized services for an online store to make it work smoothly. These services helped translate data between different platforms, making sure everything synced up correctly. ', time: "Oct '23 - Mar '24" },
+                { title: 'Project Collaborator - ISRO Safe Ship Navigation', description: "Built the whole backend of the app using Flask in Python. I also worked on important stuff like the A* algorithm. Plus, I used interpolation and cost function tricks to make things run better.", time: "May '23 - Present" },
+                { title: 'Intern - ComputeLib', description: ' Created small, specialized services for an online store to make it work smoothly. These services helped translate data between different platforms, making sure everything synced up correctly. ', time: "Oct '23 - Apr '24" },
                 { title: 'Teaching Assistant - Linear Algebra', description: "Tutored first year students with Linear Algebra and core concepts required for further courses. Learnt teaching, managing skills form this experience.", time: "Jan'24 - Present" },
                 { title: 'Towards Explainability of Federated Learning', description: 'Understanding Federated setup on different scenarios and eplaining with conversational memory elements.', time: "Oct'23 - Present" },
             ],
