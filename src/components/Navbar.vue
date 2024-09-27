@@ -9,7 +9,7 @@
                 <li><router-link to="/projects">Projects</router-link></li>
                 <li><router-link to="/contact">Contact</router-link></li>
                 <li><router-link to="/experience">Experiences</router-link></li>
-                <li><a href="https://drive.google.com/file/d/1zPKrEudAXhIww2ma5XddIhbLC0VO08sr/view?usp=sharing">Resume</a></li>
+                <li><a href="https://drive.google.com/file/d/1YFs_MXe2SgfS4yM4vVDvUGs6GKigNgbi/view?usp=drive_link">Resume</a></li>
             </ul>
         </nav>
     </header>
